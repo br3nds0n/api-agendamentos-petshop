@@ -1,5 +1,8 @@
 ## ⚙API de agendamentos
 
+> <code> <b>status code:</b> API Finalizada 🚀✅ </code>
+
+
 ![image](https://user-images.githubusercontent.com/82064724/146657762-2c867117-19f4-466c-a4f2-2bccc1f573a8.png)
 
 ## 📘 Sobre
